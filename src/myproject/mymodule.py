@@ -1,0 +1,4 @@
+
+
+def myfunction():
+    return True
